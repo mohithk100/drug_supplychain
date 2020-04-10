@@ -20,7 +20,9 @@
     "yup": "0.26.10", 
     "reflect-metadata": "~0.1.12", 
     "@worldsibu/convector-core": "~1.3.6", 
-    "@worldsibu/convector-platform-fabric": "~1.3.6"
+    "@worldsibu/convector-platform-fabric": "~1.3.6",
+    "@worldsibu/convector-rest-api-decorators": "1.0.4"
+
   },
   "devDependencies": {  
     "@types/node": "10.12.5",  
