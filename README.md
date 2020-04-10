@@ -1,7 +1,7 @@
 # drug_supplychain - supplychain
 
-This awesome project was created automatically with <a href="https://github.com/worldsibu/convector-cli" target="_blank">Convector CLI</a>.
-By default new Convector projects locally include <a href="https://github.com/worldsibu/hurley">Hurley</a> to manage your development environment seamlessly, so you don't have to worry about setting up the network and hard ways to install  and upgrade your chaincodes.
+This awesome project was created automatically with [Convector CLI](https://github.com/worldsibu/convector-cli).
+By default new Convector projects locally include [Hurley](https://github.com/worldsibu/hurley) to manage your development environment seamlessly, so you don't have to worry about setting up the network and hard ways to install  and upgrade your chaincodes.
 
 ## Start
 
@@ -19,7 +19,7 @@ hurl invoke supplychain supplychain_create "{\"name\":\"my first request\",\"id\
 
 ## About Hurley
 
-You may as well install **Hurley** globally for easier and more flexible management. 
+You may as well install **Hurley** globally for easier and more flexible management.
 
 `npm i -g @worldsibu/hurley`
 
@@ -45,9 +45,9 @@ If you don't want to, don't worries! This project works right away.
 
 ## Start - if you have Hurley globally
 
-### Bring your project to life 
+### Bring your project to life
 
-```
+```javascript
 # Install dependencies - From the root of your project
 npm i
 # Create a new development blockchain network  - From the root of your project
@@ -96,9 +96,9 @@ npm run cc:upgrade -- supplychain 1.2
 npm run test
 ```
 
-> Check all the information to work with Convector <a href="https://docs.covalentx.com/convector" target="_blank">in the DOCS site</a>.
+> Check all the information to work with Convector [in the DOCS site](https://docs.covalentx.com/convector).
 
 ## Collaborate to the Convector Suite projects
 
-* <a href="https://community.covalentx.com" target="_blank">Discord chat with the community</a>
-* <a href="https://github.com/worldsibu" target="_blank">Convector projects</a>
+* [Discord chat with the community](https://community.covalentx.com)
+* [Convector projects](https://github.com/worldsibu)
